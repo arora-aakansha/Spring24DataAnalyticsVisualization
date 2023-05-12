@@ -1,0 +1,6 @@
+TO download json file:
+    curl -o rows.json "https://datacatalog.cookcountyil.gov/api/views/xu6t-uvny/rows.json?accessType=DOWNLOAD"
+
+link of dataset:
+https://ind657-my.sharepoint.com/:f:/g/personal/arora02_pfw_edu/Esp3ZjLm-n1KkFSYVbpc-TwBIWOVN_POSdAjFckZT-lpgg?e=nTGWDK
+
